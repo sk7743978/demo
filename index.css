@@ -328,6 +328,9 @@ nav a{
         grid-template-columns: 1fr;
         
     }
+    .project-box{
+         grid-template-columns: 1fr;
+    }
 
     #navbar nav {
         /* Adjust nav for smaller screens */
