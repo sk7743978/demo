@@ -311,6 +311,9 @@ nav a{
     padding: 20px;
     
     }
+    .project img{
+        object-fit: cover;
+    }
     .sidebar{
         position: static;
         height: auto;
