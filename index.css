@@ -269,7 +269,7 @@ nav a{
 }
 .projects img{
     height:180px;
-    width:350px;
+    width:390px;
     object-fit:cover;
 }
 .card{
@@ -311,9 +311,7 @@ nav a{
     padding: 20px;
     
     }
-    .project img{
-        object-fit: cover;
-    }
+    
     .sidebar{
         position: static;
         height: auto;
